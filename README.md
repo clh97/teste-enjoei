@@ -3,6 +3,7 @@ pequena view criada com React que interage com um back-end simples em node na po
 
 ## inicializar
 entre no diretório
+yarn install ou npm install
 yarn start ou npm start
 
 é isso :D
