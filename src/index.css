@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
+
+body {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat, sans-serif;
+  color: #7d7a77;
+}
+
+.modal-content div {
+  padding: 12px;
+  overflow: hidden;
+}
+
+.checkout__modal__title,
+.checkout__modal__subtitle {
+  font-weight: 400;
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.checkout__modal__title {
+  font-size: 1.5rem;
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

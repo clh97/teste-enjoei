@@ -1,0 +1,15 @@
+.product__resume {
+  font-size: 1.2rem;
+}
+
+.product__resume__value {
+  margin: 1rem 0;
+}
+
+.value__price--red {
+  color: #f77274;
+}
+
+.value__price {
+  float: right;
+}
